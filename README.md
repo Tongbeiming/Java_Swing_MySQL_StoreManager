@@ -46,6 +46,26 @@ project/
 3. 在 `src/com/example/util/DBUtil.java` 中修改数据库连接信息，包括数据库 URL、用户名和密码。
 4. 运行 `src/com/example/view/LoginFrame.java`，用管理员账号密码 `admin/admin` 进行登录。
 
+## 数据库结构
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/0dcb5e38-2b27-4bff-8f99-b844bf124617)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/760223ff-91be-48e0-b257-cba4c5538e91)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/1f56cea5-1487-488c-9638-91e2d917e86f)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/cdd20485-c08b-4ccb-87a2-f30dc4554a70)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/6e906a5f-848e-4aa8-ac1d-4f5127fe667d)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/d8149899-0d4e-494d-bc34-8c42d90550ee)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/c88d10a1-cb67-47d4-8f3f-c5498a08cdfc)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/8b9e7673-755a-4c28-b839-dfd09bd40db6)
+
+![image](https://github.com/Tongbeiming/Java_Swing_MySQL_StoreManager/assets/106958373/94472050-306b-4ef0-98d6-0ec2730b119d)
+
+
 ## 开发者
 
 - 马豪彤（项目负责和代码设计）
