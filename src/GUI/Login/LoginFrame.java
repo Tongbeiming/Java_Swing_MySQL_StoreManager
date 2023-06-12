@@ -26,7 +26,7 @@ public class LoginFrame extends JFrame {
         setLocationRelativeTo(null);
 
         // Set background image
-        ImageIcon backgroundIcon = new ImageIcon("GUI/Login/img.png");
+        ImageIcon backgroundIcon = new ImageIcon("src/GUI/Login/img.png");
         Image img = backgroundIcon.getImage();
         backgroundIcon.setImage(img.getScaledInstance(400, 250, Image.SCALE_DEFAULT));
         JLabel background = new JLabel(backgroundIcon);
