@@ -25,7 +25,7 @@ public class RegistrationDialog extends JDialog {
         setLocationRelativeTo(parent);
 
         // Set background image
-        ImageIcon backgroundIcon = new ImageIcon("D:\\IntelliJ IDEA 2023.1\\ss\\src\\GUI\\Login\\img.png");
+        ImageIcon backgroundIcon = new ImageIcon("GUI/Login/img.png");
         Image img = backgroundIcon.getImage();
         backgroundIcon.setImage(img.getScaledInstance(400, 300, Image.SCALE_DEFAULT));
         JLabel background = new JLabel(backgroundIcon);
