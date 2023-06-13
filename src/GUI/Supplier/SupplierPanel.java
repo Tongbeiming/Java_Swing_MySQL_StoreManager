@@ -34,7 +34,7 @@ public class SupplierPanel extends JPanel {
 
     private void initComponents() {
         JPanel topPanel = new JPanel();
-        JButton btnAdd = new JButton("添加员工");
+        JButton btnAdd = new JButton("添加商家");
         btnAdd.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -44,7 +44,7 @@ public class SupplierPanel extends JPanel {
         });
         topPanel.add(btnAdd);
 
-        JButton btnDelete = new JButton("删除员工");
+        JButton btnDelete = new JButton("删除商家");
         btnDelete.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -61,7 +61,7 @@ public class SupplierPanel extends JPanel {
         });
         topPanel.add(btnDelete);
 //NICE
-        JButton btnEdit = new JButton("编辑员工");
+        JButton btnEdit = new JButton("编辑商家");
         btnEdit.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -74,7 +74,7 @@ public class SupplierPanel extends JPanel {
         });
         topPanel.add(btnEdit);
 
-        JButton btnSearch = new JButton("搜索员工");
+        JButton btnSearch = new JButton("搜索商家");
         btnSearch.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
